@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKASHGOWDA-007
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on open source projects to contribute
 - 📫 How to reach me g.akash712@gmail.com
 
