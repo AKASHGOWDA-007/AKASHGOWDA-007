@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AKASHGOWDA-007<br>👀 I’m interested in CODING<br>🌱 I’m currently learning Web Development<br>💞️ I’m looking to collaborate on open source projects to contribute<br>💬Ask me about HTML, CSS, JavaScript<br>📫 How to reach me g.akash712@gmail.com
+👋 Hi, I’m @AKASHGOWDA-007<br>👀 I’m interested in developing Websites<br>🌱 I’m currently learning Web Development<br>💞️ I’m looking to collaborate on open source projects to contribute<br>💬Ask me about HTML, CSS, JavaScript<br>📫 How to reach me g.akash712@gmail.com
 
 
 ## 🌐 Socials:
